@@ -46,7 +46,7 @@ The plan identifies the items to be tested, the features to be tested, the types
  All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing and GUI testing.
 
  - **Tests not in scope:**
-   Performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers and load testing.
+   Performance testing, compatibility testing with multiple browsers and load testing.
 
 **1.1.5 Risks detected:**
  - Projects risks:
