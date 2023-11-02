@@ -72,7 +72,7 @@ It will be done by generating periodic reports that reflect the current status o
 
 **1.3 Test Analysis**
 
-The testing process will be executed based on the above requirements for the ***module under test name***. The following test conditions were found:
+The testing process will be executed based on the above requirements for the ***Shopping experience***. The following test conditions were found:
 
  - Enter test conditions here
 
