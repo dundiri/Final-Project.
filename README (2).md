@@ -3,11 +3,9 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: [Product Store](https://www.demoblaze.com/)
 
-API Documentation: link to API documentation if exists or N/A
 
-**The final project will be split into 2 section: [Testing section]() and  [SQL section]()**
 
-Tools used:
+Tools used:JIRA, Zephyr Squad
 
 **Functional specifications**
 
@@ -17,21 +15,52 @@ ____
 
 **1.1 Test Planning**
 
-The Test Plan is designed to describe all details of testing for the X module from the ***name of the application chosen to be tested***.
+The Test Plan is designed to describe all details of testing for the **Shopping experience** module from the ***Product Store***.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 **1.1.1 Roles assigned to the project and persons allocated**
+
+- Project manager - Letitia Mark
+- Product owner - Oana Damian
+- Software developer - Pop Vasile
+- QA Engineer - Adelina Lumperdean
+
 **1.1.2 Entry criteria defined**
+
+- functional specifications are defined
+
+- roles needed for the project are allocated
+
+- initial project risks were detected and mitigated
+
 **1.1.3 Exit criteria defined**
+
+- all website features and functionalities work without critical errors.
+- all links and navigation menus are functional and lead to the intended pages.
+- all text and multimedia content are reviewed and free of grammatical errors.
+- images and multimedia assets are properly compressed and optimized for web use.
 
 **1.1.4 Test scope**
  - **Tests in scope:**
+ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing and GUI testing.
+
  - **Tests not in scope:**
+   Performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers and load testing.
 
 **1.1.5 Risks detected:**
  - Projects risks:
+   
+   Insufficient or misallocation of resources (including personnel, equipment, or materials) can impede project progress.
+   
+   Lack of experience.
  - Product risks:
+   
+	The web page pagination could be impacted when opened on mobile devices with different versions of systems or rooted.
+
+	User data (transactions) might be impacted with update tests.
+
+	Stability risks (crashes, disconnects, etc).
 
 **1.1.6 Evaluating entry criteria**
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
