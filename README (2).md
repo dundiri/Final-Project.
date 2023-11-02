@@ -102,7 +102,7 @@ enter here bug titles
  -> enter here test execution report/chart
 
 
-**2 SQL section**
+
 
 
 
