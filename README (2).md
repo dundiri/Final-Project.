@@ -87,8 +87,8 @@ The test cases with steps can be viewed here: [test_cases.pdf]()
 
 The following elements are needed to be ready before the test execution phase begins:
 
- - enter here what needs to be ready for the test execution to begin
- - 
+ - internet connection
+ - all the hardware necessary
 **1.6 Test Execution**
 
  - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf]()
