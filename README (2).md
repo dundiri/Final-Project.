@@ -89,6 +89,7 @@ The following elements are needed to be ready before the test execution phase be
 
  - internet connection
  - all the hardware necessary
+  
 **1.6 Test Execution**
 
  - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf]()
