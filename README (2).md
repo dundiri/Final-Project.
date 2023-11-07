@@ -74,7 +74,7 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the ***Shopping experience***. The following test conditions were found:
 
- - Enter: [test_conditions.pdf] ().
+ - Enter: test_conditions.pdf ().
 
 **1.4 Test Design**
 
