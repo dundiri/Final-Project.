@@ -98,8 +98,12 @@ enter here bug titles
 **1.7 Test Completion**
  - Exit criteria was evaluated and passed
  - The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
- - Test execution chart was generated, the final report shows.... -> describe the final report
- -> enter here test execution report/chart
+ - Test execution chart was generated, the final report shows that during this testing, all 17 test cases planned for execution were tested.
+ - from the 17 tests, a total number of 3 bugs were discovered, whose priorities are: 1 – high and 2 – medium;
+- the reported defects were fixed and retested;
+- product risks have been reduced by upgrading the application.
+ - retesting and regression testing will be done for the new version of the application.
+ 
 
 
 
