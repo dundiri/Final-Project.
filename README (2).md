@@ -28,6 +28,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.2 Entry criteria defined**
 
+- smoke test passed.
+
+- testing environment is up and running.
+
+- test data should be available to cover the different scenarios and use cases that will be tested.
+
 - functional specifications are defined
 
 - roles needed for the project are allocated
@@ -43,10 +49,45 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.4 Test scope**
  - **Tests in scope:**
- All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing and GUI testing.
+ All the feature which were defined in software requirement specs need to be tested: functional testing and GUI testing.
+
+Functional Testing:
+
+- verify that all website features and functions work as expected.
+- test navigation through different pages and sections.
+- check the functionality of buttons, forms, and links.
+
+ Layout and Design:
+
+Verify that the layout of the web pages is consistent and visually appealing.
+Check for proper alignment of text, images, and other elements.
+Test the navigation flow between different pages and sections of the website.
+Verify that navigation elements such as menus and links work as expected.
+
+Forms and Input Fields:
+
+Test all input fields to ensure they accept the correct types of data.
+Check for proper validation messages when incorrect data is entered.
+Verify that form submission works correctly.
+
+Check that images and multimedia elements are displayed correctly.
+Verify that the look and feel of the website are consistent across all pages.
+Check that headers, footers, and other common elements are uniform.
+
+Usability Testing:
+
+- evaluate the user interface for intuitiveness and ease of use.
+- test if users can easily accomplish their tasks on the website.
+
+Regression Testing:
+
+- after making changes or updates to the website, perform regression testing to ensure that existing features still work as intended.
+
 
  - **Tests not in scope:**
-   Performance testing, compatibility testing with multiple browsers and load testing.
+   - performance testing and load testing are not in scope.
+   - also test the website on different browsers (Chrome, Firefox, Safari, Edge, etc.) to ensure compatibilit and check the website's responsiveness on various devices (desktop, tablet, mobile) are not in scope
+   - automation testing is not in scope.
 
 **1.1.5 Risks detected:**
  - Projects risks:
