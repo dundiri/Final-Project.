@@ -48,7 +48,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 - images and multimedia assets are properly compressed and optimized for web use.
 
 **1.1.4 Test scope**
- - **Tests in scope:**
+
+ **Tests in scope:**
  All the feature which were defined in software requirement specs need to be tested: functional testing and GUI testing.
 
 Functional Testing:
@@ -56,23 +57,20 @@ Functional Testing:
 - verify that all website features and functions work as expected.
 - test navigation through different pages and sections.
 - check the functionality of buttons, forms, and links.
+- test all input fields to ensure they accept the correct types of data.
+- check for proper validation messages when incorrect data is entered.
+- verify that form submission works correctly.
+
 
  Layout and Design:
 
-Verify that the layout of the web pages is consistent and visually appealing.
-Check for proper alignment of text, images, and other elements.
-Test the navigation flow between different pages and sections of the website.
-Verify that navigation elements such as menus and links work as expected.
-
-Forms and Input Fields:
-
-Test all input fields to ensure they accept the correct types of data.
-Check for proper validation messages when incorrect data is entered.
-Verify that form submission works correctly.
-
-Check that images and multimedia elements are displayed correctly.
-Verify that the look and feel of the website are consistent across all pages.
-Check that headers, footers, and other common elements are uniform.
+- verify that the layout of the web pages is consistent and visually appealing.
+- check for proper alignment of text, images, and other elements.
+- test the navigation flow between different pages and sections of the website.
+- verify that navigation elements such as menus and links work as expected.
+- check that images and multimedia elements are displayed correctly.
+- verify that the look and feel of the website are consistent across all pages.
+- check that headers, footers, and other common elements are uniform.
 
 Usability Testing:
 
@@ -84,26 +82,30 @@ Regression Testing:
 - after making changes or updates to the website, perform regression testing to ensure that existing features still work as intended.
 
 
- - **Tests not in scope:**
-   - performance testing and load testing are not in scope.
-   - also test the website on different browsers (Chrome, Firefox, Safari, Edge, etc.) to ensure compatibilit and check the website's responsiveness on various devices (desktop, tablet, mobile) are not in scope
-   - automation testing is not in scope.
+**Tests not in scope:**
+  
+- performance testing and load testing are not in scope.
+- also test the website on different browsers (Chrome, Firefox, Safari, Edge, etc.) to ensure compatibilit and check the website's responsiveness on various devices (desktop, tablet, mobile) are not in scope
+- automation testing is not in scope.
 
 **1.1.5 Risks detected:**
- - Projects risks:
+
+ ** Projects risks:**
    
    Insufficient or misallocation of resources (including personnel, equipment, or materials) can impede project progress.
    
    Lack of experience.
- - Product risks:
    
-	The web page pagination could be impacted when opened on mobile devices with different versions of systems or rooted.
+** Product risks:**
+   
+The web page pagination could be impacted when opened on mobile devices with different versions of systems or rooted.
 
-	User data (transactions) might be impacted with update tests.
+ User data (transactions) might be impacted with update tests.
 
-	Stability risks (crashes, disconnects, etc).
+Stability risks (crashes, disconnects, etc).
 
 **1.1.6 Evaluating entry criteria**
+
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
 
@@ -114,8 +116,16 @@ It will be done by generating periodic reports that reflect the current status o
 **1.3 Test Analysis**
 
 The testing process will be executed based on the above requirements for the ***Shopping experience***. The following test conditions were found:
-
- - Enter: test_conditions.pdf ().
+- Verify that a customer can create an user account by filling the input fields with a valid values
+- Verify that if all fields are left blank an error message will be displayed.
+- Verify if the user is able to log into his account.
+- Verify the Password length restriction.
+- Verify that an error message appears when an Username is already used.
+- Verify that the "Category" module is functional
+- Verify that the website provide an option to add the selected product to my shopping cart.
+- Verify that are displayed the details such as price, description and images when a product is selected
+- Verify that I can view the contents of my shopping cart, including the selected products, quantities, and total price.
+- Verify that the website allow me to proceed to the checkout process, where I can enter my shipping and payment information.
 
 **1.4 Test Design**
 
