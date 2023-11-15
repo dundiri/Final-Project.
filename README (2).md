@@ -88,7 +88,7 @@ Regression Testing:
 
 **1.1.5 Risks detected:**
 
- ** Projects risks:**
+ ** Project risks:**
    
    Insufficient or misallocation of resources (including personnel, equipment, or materials) can impede project progress.
    
