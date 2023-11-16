@@ -116,12 +116,12 @@ It will be done by generating periodic reports that reflect the current status o
 The testing process will be executed based on the above requirements for the ***Shopping experience***. The following test conditions were found:
 - Verify that a customer can create an user account by filling the input fields with a valid values
 - Verify that if all fields are left blank an error message will be displayed.
-- Verify if the user is able to log into his accountwhith valid credentials.
+- Verify if the user is able to log into his account whith valid credentials.
 - Verify the Password length restriction.
 - Verify that an error message appears when creating account with existing username.
 - Verify that the "Category" module is functional
 - Verify that the website provides an option to add the selected product to my shopping cart.
-- Verify that product details are displayed when product is select.
+- Verify that product details are displayed when product is selected.
 - Verify that the user can view the contents of the shopping cart.
 - Verify that the website allow me to proceed to the checkout process, where I can enter my shipping and payment information.
 
